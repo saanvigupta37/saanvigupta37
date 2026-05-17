@@ -1,95 +1,225 @@
-# Hi, I'm Saanvi Gupta 👋
+````md id="lyz5ac"
+<div align="center">
 
-🎓 B.Tech CSE (Data Science) Student  
-💻 Full-Stack Developer 
-🚀 Passionate about building scalable web applications and learning modern software engineering.
+# ⚡ SAANVI GUPTA ⚡
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Building+cool+things+on+the+internet;React+%2B+TypeScript+%2B+Backend;Exploring+AI+%26+Modern+Web+Tech;Turning+ideas+into+real+products+🚀" />
 
-## 🚀 About Me
+<br/>
 
-- 🎓 Currently pursuing B.Tech in Computer Science (Data Science)
-- 💡 Interested in Full-Stack Development, Backend Engineering, and Data Science
-- 🌱 Currently learning backend systems
-- ⚡ Love building real-world applications using modern web technologies
-- 🎯 Seeking Software Engineering / Full-Stack Internship opportunities
+<img src="https://komarev.com/ghpvc/?username=saanvigupta37&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## 🌌 ABOUT ME
 
----
+```yaml
+name: Saanvi Gupta
+role: Full-Stack Developer
+education: B.Tech CSE (Data Science)
+location: India 🇮🇳
+currently_learning:
+  - Data Structures & Algorithms
+  - Backend Engineering
+  - Machine Learning Fundamentals
+  - Generative AI Concepts
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+interests:
+  - Full-Stack Applications
+  - Scalable Systems
+  - Modern UI/UX
+  - AI-Powered Applications
+  - Real-Time Systems
 
----
+fun_fact: "I enjoy building products that feel futuristic ✨"
+```
 
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
----
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 🌟 Featured Projects
+# ⚒️ TECH STACK
 
-### 🏋️ FitZone — Fitness Tracking Web Application
-- Built a responsive fitness platform using Node.js and Express.js
-- Implemented membership and scheduling workflows
-- Optimized UI for cross-device compatibility
+<div align="center">
 
----
+### 👩‍💻 LANGUAGES
 
-### 🛒 HostelMart — P2P Marketplace
-- Developed a hostel-focused marketplace using React, TypeScript, and Supabase
-- Implemented authentication and item listing workflows
-- Built responsive reusable UI components using Tailwind CSS
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,sql" />
 
 ---
 
-### 🌐 Personal Portfolio Website
-- Designed and developed a responsive portfolio website
-- Focused on modern UI/UX and accessibility
-- Showcases projects, skills, and technical experience
+### 🎨 FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
 
 ---
 
-## 📈 Currently Working On
+### ⚙️ BACKEND & DATABASES
 
-- 📚 Data Structures & Algorithms
-- ⚙️ Backend Development
-- 🧠 Scalable System Design Basics
-- 🚀 Building production-ready full-stack applications
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,postgres" />
 
 ---
 
-## 📫 Connect With Me
+### 🚀 TOOLS & PLATFORMS
 
-- 💼 LinkedIn: https://linkedin.com/in/saanvi-gupta
-- 💻 GitHub: https://github.com/saanvigupta37
-- 📧 Email: saanvigupta372@gmail.com
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
+</div>
 
 ---
 
-⭐️ Always open to collaborating on interesting projects and learning opportunities!
+# 🌟 FEATURED PROJECTS
+
+<div align="center">
+
+## 🤝 HelpNear
+### Real-Time Community Mutual Aid Platform
+
+🔗 https://help-near-web.vercel.app
+
+```diff
++ Real-time request system
++ Live chat & notifications
++ Supabase authentication
++ PostgreSQL + RLS policies
++ Mobile-first glassmorphic UI
++ Community-based workflows
+```
+
+Built a full-stack real-time platform connecting neighbours for local help requests with realtime updates, secure authentication, and scalable backend workflows.
+
+---
+
+## 🛒 HostelMart
+### P2P Marketplace for Hostel Residents
+
+🔗 https://hostel-mart-beige.vercel.app
+
+```diff
++ Authentication workflows
++ Community marketplace
++ Responsive modern UI
++ React + TypeScript architecture
++ Supabase backend integration
+```
+
+Marketplace platform enabling hostel residents to buy, sell, and exchange items through community-driven workflows.
+
+---
+
+## 🏋️ FitZone
+### Fitness Tracking & Gym Management Platform
+
+🔗 https://fit-zone-wheat.vercel.app
+
+```diff
++ Membership workflows
++ Scheduling system
++ Responsive layouts
++ Smooth animations
++ Modern frontend interactions
+```
+
+Responsive fitness platform with backend workflows, modern UI interactions, and optimized cross-device experience.
+
+---
+
+## 📝 NoteFlow
+### Modern Note-Taking Application
+
+🔗 https://note-flow-henna.vercel.app
+
+```diff
++ Persistent local storage
++ Dynamic note management
++ Clean productivity-focused UI
++ Fast React rendering
+```
+
+Minimal note-taking platform designed for speed, simplicity, and responsive user experience.
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saanvigupta37&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanvigupta37&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saanvigupta37&theme=midnight-purple&hide_border=true&border_radius=15" />
+
+</div>
+
+---
+
+# 🧠 CURRENTLY LEARNING
+
+<div align="center">
+
+| 🚀 Domain | 📚 Focus |
+|---|---|
+| Full-Stack Development | Scalable architectures |
+| Backend Engineering | APIs & database design |
+| DSA | Problem solving |
+| AI/ML | Exploring GenAI & LLM concepts |
+| UI/UX | Modern interactive experiences |
+
+</div>
+
+---
+
+# 🎵 VIBES
+
+<div align="center">
+
+```txt
+while(alive) {
+   eat();
+   code();
+   build();
+   debug();
+   repeat();
+}
+```
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://linkedin.com/in/saanvi-gupta">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/saanvigupta37">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:saanvigupta372@gmail.com">
+<img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Building cool stuff one commit at a time ✨
+
+</div>
+````
+
