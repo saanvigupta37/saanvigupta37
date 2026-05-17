@@ -1,13 +1,16 @@
-
 <div align="center">
 
-# ⚡ SAANVI GUPTA ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=260&section=header&text=SAANVI%20GUPTA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Building+cool+things+on+the+internet;Exploring+AI+%26+Modern+Web+Tech;Turning+ideas+into+real+products+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Developer;building+cool+things+on+the+internet;late+night+coding+%2B+good+music+%F0%9F%8E%A7;exploring+AI+%26+modern+web+tech;turning+ideas+into+real+products+%F0%9F%9A%80" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=saanvigupta37&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=saanvigupta37&label=profile+views&color=8B5CF6&style=for-the-badge" />
+
+<br/><br/>
+
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="420"/>
 
 </div>
 
@@ -15,15 +18,16 @@
 
 <div align="center">
 
-## 🌌 ABOUT ME
+##  digital space powered by caffeine & curiosity 
 
 </div>
+
+<br/>
 
 ```yaml
 name: Saanvi Gupta
 role: Full-Stack Developer
-education: B.Tech CSE (Data Science)
-location: India 🇮🇳
+vibe: building futuristic things with clean UI & chaotic debugging sessions
 
 currently_learning:
   - Data Structures & Algorithms
@@ -32,16 +36,22 @@ currently_learning:
   - Exploring Generative AI Concepts
 
 interests:
-  - Full-Stack Applications
   - Real-Time Systems
+  - Full-Stack Applications
   - Modern UI/UX
-  - Scalable Web Platforms
   - AI-Powered Applications
+  - Scalable Web Platforms
 
-fun_fact: "I enjoy building products that feel futuristic ✨"
+life_philosophy: "if it works, don't touch it ✨"
 ````
 
 ---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-77d9f2d1-9b84-4c75-bb0d-1a2b2c1f9b52.gif" width="100%"/>
+
+</div>
 
 # ⚒️ TECH STACK
 
@@ -51,19 +61,19 @@ fun_fact: "I enjoy building products that feel futuristic ✨"
 
 <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,sql" />
 
----
+<br/><br/>
 
 ### 🎨 FRONTEND
 
 <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
 
----
+<br/><br/>
 
 ### ⚙️ BACKEND & DATABASES
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,postgres" />
 
----
+<br/><br/>
 
 ### 🚀 TOOLS & PLATFORMS
 
@@ -72,6 +82,12 @@ fun_fact: "I enjoy building products that feel futuristic ✨"
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-77d9f2d1-9b84-4c75-bb0d-1a2b2c1f9b52.gif" width="100%"/>
+
+</div>
 
 # 🌟 FEATURED PROJECTS
 
@@ -94,7 +110,11 @@ fun_fact: "I enjoy building products that feel futuristic ✨"
 
 Built a full-stack real-time platform connecting neighbours for local help requests with realtime updates, secure authentication, and scalable backend workflows.
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🛒 HostelMart
 
@@ -112,7 +132,11 @@ Built a full-stack real-time platform connecting neighbours for local help reque
 
 Marketplace platform enabling hostel residents to buy, sell, and exchange items through community-driven workflows.
 
+<br/>
+
 ---
+
+<br/>
 
 ## 🏋️ FitZone
 
@@ -130,7 +154,11 @@ Marketplace platform enabling hostel residents to buy, sell, and exchange items 
 
 Responsive fitness platform with backend workflows, modern UI interactions, and optimized cross-device experience.
 
+<br/>
+
 ---
+
+<br/>
 
 ## 📝 NoteFlow
 
@@ -151,6 +179,12 @@ Minimal note-taking platform designed for speed, simplicity, and responsive user
 
 ---
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-77d9f2d1-9b84-4c75-bb0d-1a2b2c1f9b52.gif" width="100%"/>
+
+</div>
+
 # 🧠 CURRENTLY LEARNING
 
 <div align="center">
@@ -167,30 +201,43 @@ Minimal note-taking platform designed for speed, simplicity, and responsive user
 
 ---
 
-# 🎵 VIBES
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-77d9f2d1-9b84-4c75-bb0d-1a2b2c1f9b52.gif" width="100%"/>
+
+</div>
+
+# 🎧 CURRENT STATUS
 
 <div align="center">
 
 ```txt
-while(alive) {
-   eat();
-   code();
-   build();
-   debug();
-   repeat();
-}
+Spotify on 🎵
+VS Code open 💻
+50 tabs running 🌙
+trying not to break production 🚀
 ```
+
+<br/>
+
+<img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="220"/>
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284126-77d9f2d1-9b84-4c75-bb0d-1a2b2c1f9b52.gif" width="100%"/>
+
+</div>
 
 # 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saanvi-gupta-69143b349/">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/saanvigupta37">
@@ -207,8 +254,10 @@ while(alive) {
 
 <div align="center">
 
-### ✨ Building cool stuff one commit at a time ✨
+### ✨ building cool stuff one commit at a time ✨
+
+<br/>
+
+<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="250"/>
 
 </div>
-
-
