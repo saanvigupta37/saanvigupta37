@@ -1,9 +1,9 @@
-````md id="lyz5ac"
+
 <div align="center">
 
 # ⚡ SAANVI GUPTA ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Building+cool+things+on+the+internet;React+%2B+TypeScript+%2B+Backend;Exploring+AI+%26+Modern+Web+Tech;Turning+ideas+into+real+products+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer;Building+cool+things+on+the+internet;Exploring+AI+%26+Modern+Web+Tech;Turning+ideas+into+real+products+🚀" />
 
 <br/>
 
@@ -17,28 +17,29 @@
 
 ## 🌌 ABOUT ME
 
+</div>
+
 ```yaml
 name: Saanvi Gupta
 role: Full-Stack Developer
 education: B.Tech CSE (Data Science)
 location: India 🇮🇳
+
 currently_learning:
   - Data Structures & Algorithms
   - Backend Engineering
   - Machine Learning Fundamentals
-  - Generative AI Concepts
+  - Exploring Generative AI Concepts
 
 interests:
   - Full-Stack Applications
-  - Scalable Systems
-  - Modern UI/UX
-  - AI-Powered Applications
   - Real-Time Systems
+  - Modern UI/UX
+  - Scalable Web Platforms
+  - AI-Powered Applications
 
 fun_fact: "I enjoy building products that feel futuristic ✨"
-```
-
-</div>
+````
 
 ---
 
@@ -77,9 +78,10 @@ fun_fact: "I enjoy building products that feel futuristic ✨"
 <div align="center">
 
 ## 🤝 HelpNear
+
 ### Real-Time Community Mutual Aid Platform
 
-🔗 https://help-near-web.vercel.app
+🔗 [https://help-near-web.vercel.app](https://help-near-web.vercel.app)
 
 ```diff
 + Real-time request system
@@ -95,9 +97,10 @@ Built a full-stack real-time platform connecting neighbours for local help reque
 ---
 
 ## 🛒 HostelMart
+
 ### P2P Marketplace for Hostel Residents
 
-🔗 https://hostel-mart-beige.vercel.app
+🔗 [https://hostel-mart-beige.vercel.app](https://hostel-mart-beige.vercel.app)
 
 ```diff
 + Authentication workflows
@@ -112,9 +115,10 @@ Marketplace platform enabling hostel residents to buy, sell, and exchange items 
 ---
 
 ## 🏋️ FitZone
+
 ### Fitness Tracking & Gym Management Platform
 
-🔗 https://fit-zone-wheat.vercel.app
+🔗 [https://fit-zone-wheat.vercel.app](https://fit-zone-wheat.vercel.app)
 
 ```diff
 + Membership workflows
@@ -129,9 +133,10 @@ Responsive fitness platform with backend workflows, modern UI interactions, and 
 ---
 
 ## 📝 NoteFlow
+
 ### Modern Note-Taking Application
 
-🔗 https://note-flow-henna.vercel.app
+🔗 [https://note-flow-henna.vercel.app](https://note-flow-henna.vercel.app)
 
 ```diff
 + Persistent local storage
@@ -146,33 +151,17 @@ Minimal note-taking platform designed for speed, simplicity, and responsive user
 
 ---
 
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saanvigupta37&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=15" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saanvigupta37&layout=compact&theme=midnight-purple&hide_border=true&border_radius=15" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saanvigupta37&theme=midnight-purple&hide_border=true&border_radius=15" />
-
-</div>
-
----
-
 # 🧠 CURRENTLY LEARNING
 
 <div align="center">
 
-| 🚀 Domain | 📚 Focus |
-|---|---|
-| Full-Stack Development | Scalable architectures |
-| Backend Engineering | APIs & database design |
-| DSA | Problem solving |
-| AI/ML | Exploring GenAI & LLM concepts |
-| UI/UX | Modern interactive experiences |
+| 🚀 Domain              | 📚 Focus                       |
+| ---------------------- | ------------------------------ |
+| Full-Stack Development | Scalable architectures         |
+| Backend Engineering    | APIs & database design         |
+| DSA                    | Problem solving                |
+| AI/ML                  | Exploring GenAI & LLM concepts |
+| UI/UX                  | Modern interactive experiences |
 
 </div>
 
@@ -200,7 +189,7 @@ while(alive) {
 
 <div align="center">
 
-<a href="https://linkedin.com/in/saanvi-gupta">
+<a href="https://www.linkedin.com/in/saanvi-gupta-69143b349/">
 <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -221,5 +210,5 @@ while(alive) {
 ### ✨ Building cool stuff one commit at a time ✨
 
 </div>
-````
+
 
