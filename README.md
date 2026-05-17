@@ -1,7 +1,7 @@
 # Hi, I'm Saanvi Gupta 👋
 
 🎓 B.Tech CSE (Data Science) Student  
-💻 Full-Stack Developer | Backend Enthusiast | Problem Solver  
+💻 Full-Stack Developer 
 🚀 Passionate about building scalable web applications and learning modern software engineering.
 
 ---
@@ -10,7 +10,7 @@
 
 - 🎓 Currently pursuing B.Tech in Computer Science (Data Science)
 - 💡 Interested in Full-Stack Development, Backend Engineering, and Data Science
-- 🌱 Currently learning Data Structures & Algorithms and scalable backend systems
+- 🌱 Currently learning backend systems
 - ⚡ Love building real-world applications using modern web technologies
 - 🎯 Seeking Software Engineering / Full-Stack Internship opportunities
 
