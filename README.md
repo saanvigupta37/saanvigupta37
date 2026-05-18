@@ -96,13 +96,13 @@ life_philosophy:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saanvigupta37&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saanvigupta37&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=C084FC&text_color=FFFFFF&border_radius=18" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saanvigupta37&theme=tokyonight&hide_border=true&border_radius=18" />
+<img width="49%" src="https://streak-stats.demolab.com?user=saanvigupta37&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=C084FC&currStreakLabel=EC4899&border_radius=18" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saanvigupta37&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=saanvigupta37&theme=tokyo-night&hide_border=true&radius=16&bg_color=0D1117&color=C084FC&line=EC4899&point=FFFFFF" />
 
 </div>
 
