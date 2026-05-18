@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=260&section=header&text=SAANVI%20GUPTA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Developer;building+cool+things+on+the+internet;late+night+coding+%2B+good+music+%F0%9F%8E%A7;exploring+AI+%26+modern+web+tech;turning+ideas+into+real+products+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=SAANVI%20GUPTA&fontSize=65&fontColor=ffffff&stroke=EC4899&strokeWidth=1.5&animation=fadeIn&theme=tokyonight&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=68&descSize=18" width="100%" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=saanvigupta37&label=profile+views&color=8B5CF6&style=for-the-badge" />
+<img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="220"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=EC4899&center=true&vCenter=true&width=850&lines=full-stack+developer;building+modern+web+applications;clean+UI+%2B+scalable+backend;late-night+coding+sessions+%F0%9F%8E%A7;exploring+AI+%26+modern+tech" />
 
 <br/><br/>
 
-<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="420"/>
+<img src="https://komarev.com/ghpvc/?username=saanvigupta37&label=PROFILE+VIEWS&color=EC4899&style=for-the-badge" />
 
 </div>
 
@@ -18,7 +20,7 @@
 
 <div align="center">
 
-##  digital space powered by caffeine & curiosity 
+# ✦ late night coding sessions & caffeine fueled ideas ✦
 
 </div>
 
@@ -26,23 +28,30 @@
 
 ```yaml
 name: Saanvi Gupta
+
 role: Full-Stack Developer
-vibe: building futuristic things with clean UI & chaotic debugging sessions
+specialization: Computer Science with Data Science
+
+vibe:
+  futuristic UI enthusiast
+  building scalable products
+  debugging at 2AM with music on
 
 currently_learning:
   - Data Structures & Algorithms
   - Backend Engineering
-  - Machine Learning Fundamentals
-  - Exploring Generative AI Concepts
+  - System Design Fundamentals
+  - Machine Learning & GenAI
 
 interests:
-  - Real-Time Systems
-  - Full-Stack Applications
-  - Modern UI/UX
-  - AI-Powered Applications
+  - Real-Time Applications
+  - AI-Powered Experiences
   - Scalable Web Platforms
+  - Modern UI/UX Systems
+  - Interactive Frontend Design
 
-life_philosophy: "if it works, don't touch it ✨"
+life_philosophy:
+  "if it works, don't touch it ✨"
 ````
 
 ---
@@ -65,7 +74,7 @@ life_philosophy: "if it works, don't touch it ✨"
 
 ### 🎨 FRONTEND
 
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,html,css,tailwind" />
 
 <br/><br/>
 
@@ -77,7 +86,23 @@ life_philosophy: "if it works, don't touch it ✨"
 
 ### 🚀 TOOLS & PLATFORMS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+
+</div>
+
+---
+
+# 📊 GITHUB STATS
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saanvigupta37&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saanvigupta37&theme=tokyonight&hide_border=true&border_radius=18" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saanvigupta37&theme=tokyo-night&hide_border=true&radius=16" width="95%"/>
 
 </div>
 
@@ -100,15 +125,18 @@ life_philosophy: "if it works, don't touch it ✨"
 🔗 [https://help-near-web.vercel.app](https://help-near-web.vercel.app)
 
 ```diff
-+ Real-time request system
++ Real-time request workflows
 + Live chat & notifications
 + Supabase authentication
 + PostgreSQL + RLS policies
-+ Mobile-first glassmorphic UI
-+ Community-based workflows
++ Glassmorphic responsive UI
++ Community-driven architecture
 ```
 
-Built a full-stack real-time platform connecting neighbours for local help requests with realtime updates, secure authentication, and scalable backend workflows.
+**Tech Stack:**
+`React` • `TypeScript` • `Supabase` • `PostgreSQL`
+
+Built a scalable real-time platform connecting neighbours for local help requests with secure backend workflows and live updates.
 
 <br/>
 
@@ -123,14 +151,17 @@ Built a full-stack real-time platform connecting neighbours for local help reque
 🔗 [https://hostel-mart-beige.vercel.app](https://hostel-mart-beige.vercel.app)
 
 ```diff
-+ Authentication workflows
-+ Community marketplace
++ Community marketplace workflows
++ Authentication systems
 + Responsive modern UI
 + React + TypeScript architecture
 + Supabase backend integration
 ```
 
-Marketplace platform enabling hostel residents to buy, sell, and exchange items through community-driven workflows.
+**Tech Stack:**
+`React` • `TypeScript` • `Supabase`
+
+Marketplace platform enabling hostel residents to buy, sell, and exchange items through community-driven interactions.
 
 <br/>
 
@@ -140,19 +171,22 @@ Marketplace platform enabling hostel residents to buy, sell, and exchange items 
 
 ## 🏋️ FitZone
 
-### Fitness Tracking & Gym Management Platform
+### Fitness Tracking Platform
 
 🔗 [https://fit-zone-wheat.vercel.app](https://fit-zone-wheat.vercel.app)
 
 ```diff
 + Membership workflows
-+ Scheduling system
-+ Responsive layouts
++ Scheduling systems
 + Smooth animations
-+ Modern frontend interactions
++ Responsive layouts
++ Interactive frontend experience
 ```
 
-Responsive fitness platform with backend workflows, modern UI interactions, and optimized cross-device experience.
+**Tech Stack:**
+`React` • `TailwindCSS` • `JavaScript`
+
+Responsive fitness platform focused on smooth UX and optimized frontend interactions.
 
 <br/>
 
@@ -162,50 +196,40 @@ Responsive fitness platform with backend workflows, modern UI interactions, and 
 
 ## 📝 NoteFlow
 
-### Modern Note-Taking Application
+### Minimal Productivity App
 
 🔗 [https://note-flow-henna.vercel.app](https://note-flow-henna.vercel.app)
 
 ```diff
 + Persistent local storage
 + Dynamic note management
-+ Clean productivity-focused UI
 + Fast React rendering
++ Clean productivity-focused UI
 ```
 
-Minimal note-taking platform designed for speed, simplicity, and responsive user experience.
+**Tech Stack:**
+`React` • `LocalStorage` • `CSS`
+
+Minimal note-taking application designed for speed, simplicity, and clean user experience.
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284126-77d9f2d1-9b84-4c75-bb0d-1a2b2c1f9b52.gif" width="100%"/>
-
-</div>
-
-# 🧠 CURRENTLY LEARNING
+# 🚧 CURRENTLY BUILDING
 
 <div align="center">
 
-| 🚀 Domain              | 📚 Focus                       |
-| ---------------------- | ------------------------------ |
-| Full-Stack Development | Scalable architectures         |
-| Backend Engineering    | APIs & database design         |
-| DSA                    | Problem solving                |
-| AI/ML                  | Exploring GenAI & LLM concepts |
-| UI/UX                  | Modern interactive experiences |
+```txt
+→ AI-powered productivity tools
+→ scalable backend systems
+→ improving DSA consistency
+→ experimenting with realtime architectures
+```
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284126-77d9f2d1-9b84-4c75-bb0d-1a2b2c1f9b52.gif" width="100%"/>
-
-</div>
 
 # 🎧 CURRENT STATUS
 
@@ -214,30 +238,24 @@ Minimal note-taking platform designed for speed, simplicity, and responsive user
 ```txt
 Spotify on 🎵
 VS Code open 💻
-50 tabs running 🌙
-trying not to break production 🚀
+multiple terminals running 🌙
+shipping features & fixing bugs 🚀
 ```
 
 <br/>
 
-<img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width="220"/>
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="320"/>
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284126-77d9f2d1-9b84-4c75-bb0d-1a2b2c1f9b52.gif" width="100%"/>
-
-</div>
 
 # 🌐 CONNECT WITH ME
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saanvi-gupta-69143b349/">
-<img src="https://img.shields.io/badge/LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/saanvigupta37">
@@ -245,7 +263,7 @@ trying not to break production 🚀
 </a>
 
 <a href="mailto:saanvigupta372@gmail.com">
-<img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -254,10 +272,10 @@ trying not to break production 🚀
 
 <div align="center">
 
-### ✨ building cool stuff one commit at a time ✨
+### ✦ building things one commit at a time ✦
 
 <br/>
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="250"/>
+<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="260"/>
 
 </div>
